@@ -1,0 +1,15 @@
+body {
+	color: darkblue;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	color: darkgreen;
+	font-style: italic;
+}
+
+div {
+	border: 1px solid darkblue;
+	padding: 2px;
+	margin: 2px;
+}
